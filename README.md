@@ -1,10 +1,15 @@
-<h1>¡Hola! 👋, Soy Kevin Luciano Favre Jarupkin </h1>
+<h1 align = "center">¡Hola! 👋, Soy Kevin Luciano Favre Jarupkin </h1>
 
-<h4 align = "left"> Soy un apasionado desarrolador web, buscando resolver problemas del mundo real. En un futuro, me encantaria trabajar en un proyecto sobre Inteligencia Artificial.
+<h4 align = "center"> Soy Full Stack Developer, buscando resolver problemas del mundo real. Me gusta trabajar en equipo y en un futuro, me encantaria formar parte de un proyecto sobre Inteligencia Artificial.
+  
+Las tecnologias que utilizo actualmente: ReactJs, Redux, Express, NodeJs, Express, Sequelize, PostgreSQL.
 
+---
+  
+<h4 align ="left">  
 - 🔭 Actualmente estoy trabajando en el desarrollo de un E-commerce
 
-- :books: Actualmente estoy aprendiendo  React-Native y Ingles
+- :books: Actualmente estoy aprendiendo  React-Native y profundizando mis conocimientos en Ingles
   
 
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte
@@ -16,6 +21,9 @@
 <a href="https://linkedin.com/in/kevin-luciano-favre-jarupkin" target="blank"> <img align = "centro" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt = "kevin-luciano-favre-jarupkin" height = "30" width = "40" /> </a>
 </p>
 
+ 
+  
+  
 <h3 align = "left"> Idiomas y herramientas: </h3>
 
 
