@@ -2,11 +2,9 @@
 
 <h4 align = "left"> Soy un apasionado desarrolador web, buscando resolver problemas del mundo real. En un futuro, me encantaria trabajar en un proyecto sobre Inteligencia Artificial.
 
+- 🔭 Actualmente estoy trabajando en el desarrollo de un E-commerce
 
-  
-- 🔭 Actualmente estoy trabajando en un ** E-commerce **
-
-- 👯 Actualmente estoy aprendiendo  React-Native y Ingles
+- 🌱  Actualmente estoy aprendiendo  React-Native y Ingles
   
 
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte
