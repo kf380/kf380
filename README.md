@@ -7,7 +7,7 @@ Las tecnologias que utilizo actualmente: ReactJs, Redux, Express, NodeJs, Expres
 ---
   
 <h4 align ="left">  
-- 🔭 Actualmente estoy trabajando en el desarrollo de un E-commerce
+
 
 - :books: Actualmente estoy aprendiendo  React-Native y profundizando mis conocimientos en Ingles
   
