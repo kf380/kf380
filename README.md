@@ -1,8 +1,7 @@
 <h1 align = "center">¡Hola! 👋, Soy Kevin Luciano Favre Jarupkin </h1>
 
-<h4 align = "center"> Soy Full Stack Developer, buscando resolver problemas del mundo real. Me gusta trabajar en equipo y en un futuro, me encantaria formar parte de un proyecto sobre Inteligencia Artificial.
   
-Las tecnologias que utilizo actualmente: ReactJs, Redux, Express, NodeJs, Express, Sequelize, PostgreSQL.
+Las tecnologias que utilizo actualmente: ReactJs, Redux, Express, NodeJs, Express, Sequelize, PostgreSQL,MongoDB.
 
 ---
   
