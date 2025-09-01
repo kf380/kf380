@@ -17,10 +17,10 @@
 <a href="https://linkedin.com/in/kevin-luciano-favre-jarupkin" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://wa.me/549XXXXXXXXXX" target="blank">
+<a href="https://wa.me/5493454177317" target="blank">
   <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp" height="30" width="40" />
 </a>
-<a href="https://github.com/kevinfavre" target="blank">
+<a href="https://github.com/kf380" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 </p>
