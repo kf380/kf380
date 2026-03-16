@@ -19,7 +19,7 @@
   - Adaptive AI-generated exercises in exact Cambridge format
   - Next.js, Supabase, Claude API, Stripe
 
-  **ArmatuProde** — Multiplayer sports prediction game with real-money pools
+  **[ArmatuProde](https://armatuprode.com.ar)** — Multiplayer sports prediction game with real-money pools
   - Real-time scoring, MercadoPago integration, push notifications
   - Next.js, Supabase, Prisma, MercadoPago
 
